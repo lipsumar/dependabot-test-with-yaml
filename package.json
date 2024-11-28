@@ -7,7 +7,7 @@
     "@babel/traverse": "^7.22.0",
     "babel-loader": "^6.4.1",
     "ejs": "^3.1.6",
-    "jsonpath-plus": "^9.0.0",
+    "jsonpath-plus": "^10.0.7",
     "typescript": "^5.6.3",
     "webpack-cli": "^5.1.4"
   }
